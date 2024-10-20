@@ -115,10 +115,7 @@ To install and run the project locally, follow these steps:
 
 We welcome contributions! If you would like to contribute to the project, feel free to open a pull request after following our contribution guidelines.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact Information
 
-For any inquiries or suggestions, you can reach us via email at: [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or suggestions, you can reach us via email at: [eid46060@example.com](mailto:eid46060@example.com).
