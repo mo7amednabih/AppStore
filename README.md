@@ -118,4 +118,4 @@ We welcome contributions! If you would like to contribute to the project, feel f
 
 ## Contact Information
 
-For any inquiries or suggestions, you can reach us via email at: [eid46060@example.com](mailto:eid46060@example.com).
+For any inquiries or suggestions, you can reach us via email at: [eid46060@gmail.com](mailto:eid46060@gmail.com).
